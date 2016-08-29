@@ -1,9 +1,6 @@
 ; custom @package docblock value
 package = ProducerTest
 
-; custom hostnames for self-hosted origins
-github_hostname = github.com
-
 ; commands to use for phpunit and phpdoc
 [commands]
 phpunit = vendor/bin/phpunit
