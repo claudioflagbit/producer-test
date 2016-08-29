@@ -13,5 +13,10 @@
     "phpunit/phpunit": "^5.5",
     "phpdocumentor/phpdocumentor": "^2.9",
     "producer/producer": "^2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ProducerTest\\": "./src"
+    }
   }
 }
