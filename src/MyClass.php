@@ -1,4 +1,10 @@
 <?php
+/**
+ * ProducerTest
+ *
+ * @author    Claudio <claudio.zizza@flagbit.de>
+ * @license   http://www.opensource.org/licenses/mit-license.php MIT
+ */
 
 namespace ProducerTest;
 
