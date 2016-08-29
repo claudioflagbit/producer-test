@@ -1,0 +1,17 @@
+{
+  "name": "claudioflagbit/producer-test",
+  "description": "Testing producer",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Claudio",
+      "email": "claudio.zizza@flagbit.de"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^5.5",
+    "phpdocumentor/phpdocumentor": "^2.9",
+    "producer/producer": "^2.1"
+  }
+}
