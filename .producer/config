@@ -1,0 +1,18 @@
+; custom @package docblock value
+package = ProducerTest
+
+; custom hostnames for self-hosted origins
+github_hostname = github.com
+
+; commands to use for phpunit and phpdoc
+[commands]
+phpunit = ../vendor/bin/phpunit
+phpdoc = ../vendor/bin/phpdoc
+
+; names for support files
+[files]
+changes = CHANGES.md
+contributing = CONTRIBUTING.md
+license = LICENSE.md
+phpunit = phpunit.xml.dist
+readme = README.md
