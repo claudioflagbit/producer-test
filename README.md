@@ -1,5 +1,5 @@
 # Producer Test
 
-[Producer]: https://getproducer.com
+[Producer]: http://getproducer.org
 
 This repository exists to test the [Producer][] project.

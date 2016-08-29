@@ -6,8 +6,8 @@ github_hostname = github.com
 
 ; commands to use for phpunit and phpdoc
 [commands]
-phpunit = ../vendor/bin/phpunit
-phpdoc = ../vendor/bin/phpdoc
+phpunit = vendor/bin/phpunit
+phpdoc = vendor/bin/phpdoc
 
 ; names for support files
 [files]
