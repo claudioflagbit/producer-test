@@ -13,6 +13,6 @@ phpdoc = ../vendor/bin/phpdoc
 [files]
 changes = CHANGES.md
 contributing = CONTRIBUTING.md
-license = LICENSE.md
+license = LICENSE
 phpunit = phpunit.xml.dist
 readme = README.md
